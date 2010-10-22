@@ -1,0 +1,3 @@
+[submodule "Linux-Virtual-Joystick"]
+	path = Linux-Virtual-Joystick
+	url = http://github.com/ml32/Linux-Virtual-Joystick.git
